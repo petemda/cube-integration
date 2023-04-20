@@ -48,6 +48,11 @@ Request example: https://xxx.headshed.com/api/v1/data_owners/2/B2C/customers/
             "crm__custom_info__21": "233.0",
             "crm__custom_info__386": "Klassifisering A",
             "crm__custom_info__389": "1832"
+            "call_outcome__extra__Hvis ikke fornøyd: Hvorfor?": ["Pris" ],
+            "call_outcome__extra__Hvordan scorer du Trønder IT sikkerhet sammenlignet med andre?": "Likestilt",
+            "call_outcome__extra__Hva er det viktigste kriteriet når du velger leverandør?": ["Lokal leverandør" ],
+            "call_outcome__extra__Hva er det viktigste kriteriet for å bli hos Trønder IT sikkerhet?": "Kvalitet og stabilitet",
+            "call_outcome__extra__Har du god kjennskap til hvordan poengsystemet fungerer?": "Vet ikke"
         },
   ```
 
